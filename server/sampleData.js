@@ -40,6 +40,14 @@ const projects = [
       'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.',
     status: 'In Progress',
   },
+  {
+    id: '6',
+    clientId: '6',
+    name: 'dummy project',
+    description: 
+        'some boiler plate answer to fit the sample data generated for this project',
+    status: 'Done'
+  }
 ];
 
 // Clients
